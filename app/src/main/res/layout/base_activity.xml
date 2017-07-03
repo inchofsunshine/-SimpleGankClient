@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.wingsofts.gankclient.ui.activity.MainActivity">
+
+        <com.alu.test.okletusgo.education.util.NonScrollViewPager
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.alu.test.okletusgo.education.util.NonScrollViewPager>
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigationView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@color/colorPrimary"
+            app:itemIconTint="#fff"
+            app:itemTextColor="#fff"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            app:menu="@menu/bottom">
+
+        </android.support.design.widget.BottomNavigationView>
+    </android.support.design.widget.CoordinatorLayout>
+</layout>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rts-3.6.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f6115d5274471b939544932aec06f7907226066d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f6115d5274471b939544932aec06f7907226066d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/rts/3.6.0/6b615b3324d2144e645e6568e8374ae6d9a949fa/rts-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

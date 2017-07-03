@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="nrtc-3.6.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7ce1119f958fa83cf30d95a1d1c488df3031dc6a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7ce1119f958fa83cf30d95a1d1c488df3031dc6a/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7ce1119f958fa83cf30d95a1d1c488df3031dc6a/output/jars/libs/nrtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/nrtc/3.6.0/b7cdac00f3a8b59291c0c03c2288f6703e46800f/nrtc-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

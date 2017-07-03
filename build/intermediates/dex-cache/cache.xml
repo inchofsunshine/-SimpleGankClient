@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.airbnb\deeplinkdispatch\2.0.1\7d53a4f611130c8eb2ec839e0f4268cfe3de8cde\deeplinkdispatch-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d53a4f611130c8eb2ec839e0f4268cfe3de8cde">
+        <dex dex="D:\Documents\AluGank\app\build\intermediates\pre-dexed\debug\deeplinkdispatch-2.0.1_3662dbc91f6a86ddb823f8745756f40eff4c6ae1.jar" />
+    </item>
+
+</items>
